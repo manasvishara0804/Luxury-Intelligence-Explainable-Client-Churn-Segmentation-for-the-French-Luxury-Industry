@@ -1,0 +1,2 @@
+# Luxury-Intelligence-Explainable-Client-Churn-Segmentation-for-the-French-Luxury-Industry
+Luxury brands in France have to rely on small number of valuable customers who leave quietly but cost a lot when they do so. This cannot be fixed by using discounts since it  erodes  the brand’s value. The project creates explainable churn prediction ,customer segmentation model for identifying the most valuable customers who are likely to churn.
