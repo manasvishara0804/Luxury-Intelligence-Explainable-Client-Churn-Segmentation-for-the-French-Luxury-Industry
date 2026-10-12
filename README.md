@@ -292,21 +292,3 @@ Run the notebooks in sequential order:
 Pricing and demand modelling, real CRM integration, 12–18 month churn windows, uplift modelling for retention actions, and a French-language dashboard.
 
 ---
-
-## 15. Resume & CV Bullets Draft (For Manasvi Sharma)
-
-Below are tailored, high-impact bullet points demonstrating technical rigor, machine learning depth, and luxury business acumen for internships, applications, and interviews:
-
-### Option A: Technical & Machine Learning Focus
-* **Explainable Luxury Client Churn & Segmentation System | Python, XGBoost, SHAP, Power BI**
-  * Engineered a prospective two-snapshot churn prediction architecture on 1M+ retail transactions, guaranteeing 0% temporal data leakage across 6-month prospective evaluation windows.
-  * Developed a regularized XGBoost classifier (`scale_pos_weight=4.56`) outperforming baseline Logistic Regression with an **0.834 ROC-AUC**, **4.14x Top-Decile Lift**, and capturing **49.4% of total lost revenue** in the top 10% highest-risk clients.
-  * Implemented `shap.TreeExplainer` and built an automated Reason Code Engine mapping non-linear feature attributions into structured, plain-language diagnostic reasons and tailored non-discounting luxury retention actions.
-  * Conducted log-transformed RFM K-Means clustering ($k=4$, Silhouette=0.309) visualized via 2D PCA (85.3% variance explained), exporting validated fact/dimension schemas for an executive 4-page Power BI dashboard.
-
-### Option B: Business Impact & Strategic Clienteling Focus
-* **Luxury Intelligence & Client Attrition Analytics | Python, Scikit-Learn, XGBoost, Power BI**
-  * Built an end-to-end client retention system for French luxury maisons to counteract silent attrition among top-tier spenders (top 20% driving 77.2% of £17.1M revenue) without brand-diluting discounts.
-  * Identified **£2.78M in expected revenue at risk** across 989 high-value clients, delivering an actionable roster prioritized by expected loss for boutique directors and sales advisors.
-  * Designed an empirical 4-cluster RFM segmentation model isolating "Elite Maison Patrons" (£60.9k avg spend) and "Dormant High-Rollers" (124 days recency, 24.4% churn rate), mapping each to bespoke white-glove protocols.
-  * Produced complete, interview-ready documentation across 6 automated Jupyter notebooks and an executive Power BI reporting specification.
